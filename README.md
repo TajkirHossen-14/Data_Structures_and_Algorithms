@@ -9,34 +9,36 @@ It is organized by category to make learning, revision and practice easier.
 ## 📂 Repository Structure
 
 
-DSA_Algorithms
+DSA_Algorithms/
 │
-├── 1. Data Structures
-├── 2. Dynamic Programming
-├── 3. Graph
-│ ├── BFS
-│ ├── DFS
-│ ├── Dijkstra.c
-│ ├── Kruskal's Algorithm.c
-│ └── Prim's Algorithm.c
+├── 1. Data Structures/
 │
-├── 4. Greedy
-│ ├── Fractional Knapsack
-│ └── Coin Change.c
+├── 2. Dynamic Programming/
 │
-├── 5. Searching
-│ ├── Binary Search [Using Given Array].c
-│ ├── Binary Search.c
-│ ├── Linear Search.c
-│ ├── Ternary Search [Using Given Array].c
-│ └── Ternary Search.c
+├── 3. Graph/
+│   ├── BFS
+│   ├── DFS
+│   ├── Dijkstra.c
+│   ├── Kruskal's Algorithm.c
+│   └── Prim's Algorithm.c
 │
-└── 6. Sorting
-├── Bubble Sort.c
-├── Insertion Sort.c
-├── Merge Sort.c
-├── Quick Sort.c
-└── Selection Sort.c
+├── 4. Greedy/
+│   ├── Fractional Knapsack
+│   └── Coin Change.c
+│
+├── 5. Searching/
+│   ├── Binary Search [Using Given Array].c
+│   ├── Binary Search.c
+│   ├── Linear Search.c
+│   ├── Ternary Search [Using Given Array].c
+│   └── Ternary Search.c
+│
+└── 6. Sorting/
+    ├── Bubble Sort.c
+    ├── Insertion Sort.c
+    ├── Merge Sort.c
+    ├── Quick Sort.c
+    └── Selection Sort.c
 
 ---
 
