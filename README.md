@@ -8,36 +8,30 @@ It is organized by category to make learning, revision and practice easier.
 
 ## 📂 Repository Structure
 
-
-DSA_Algorithms/
-│
-├── 1_Data_Structures/
-├── 2_Dynamic_Programming/
-│
-├── 3_Graph/
-│   ├── BFS.c
-│   ├── DFS.c
-│   ├── Dijkstra.c
-│   ├── Kruskals_Algorithm.c
-│   └── Prims_Algorithm.c
-│
-├── 4_Greedy/
-│   ├── Fractional_Knapsack.c
-│   └── Coin_Change.c
-│
-├── 5_Searching/
-│   ├── Binary_Search_Using_Given_Array.c
-│   ├── Binary_Search.c
-│   ├── Linear_Search.c
-│   ├── Ternary_Search_Using_Given_Array.c
-│   └── Ternary_Search.c
-│
-└── 6_Sorting/
-    ├── Bubble_Sort.c
-    ├── Insertion_Sort.c
-    ├── Merge_Sort.c
-    ├── Quick_Sort.c
-    └── Selection_Sort.c
+- **DSA_Algorithms**
+  - 📁 1_Data_Structures
+  - 📁 2_Dynamic_Programming
+  - 📁 3_Graph
+    - BFS.c
+    - DFS.c
+    - Dijkstra.c
+    - Kruskals_Algorithm.c
+    - Prims_Algorithm.c
+  - 📁 4_Greedy
+    - Fractional_Knapsack.c
+    - Coin_Change.c
+  - 📁 5_Searching
+    - Binary_Search_Using_Given_Array.c
+    - Binary_Search.c
+    - Linear_Search.c
+    - Ternary_Search_Using_Given_Array.c
+    - Ternary_Search.c
+  - 📁 6_Sorting
+    - Bubble_Sort.c
+    - Insertion_Sort.c
+    - Merge_Sort.c
+    - Quick_Sort.c
+    - Selection_Sort.c
 
 ---
 
