@@ -140,7 +140,7 @@ Searching algorithms are used to locate an element in a dataset.
 
 ---
 
-# 🔃 Sorting Algorithms
+## 🔃 Sorting Algorithms
 
 Sorting algorithms arrange elements in ascending or descending order.
 
