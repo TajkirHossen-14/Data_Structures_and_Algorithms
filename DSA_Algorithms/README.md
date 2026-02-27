@@ -65,9 +65,3 @@ Sorting algorithms arrange the elements of a list or array in a certain order. T
 - Heap Sort
 - Insertion Sort
 
----
-
-Happy coding! For more detailed information on each algorithm, please refer to the individual files in this repository.
-
-**Date Created:** 2026-02-27 14:31:29 UTC  
-**Author:** TajkirHossen-14
