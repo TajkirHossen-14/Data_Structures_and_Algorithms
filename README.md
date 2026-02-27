@@ -11,34 +11,33 @@ It is organized by category to make learning, revision and practice easier.
 
 DSA_Algorithms/
 │
-├── 1. Data Structures/
+├── 1_Data_Structures/
+├── 2_Dynamic_Programming/
 │
-├── 2. Dynamic Programming/
-│
-├── 3. Graph/
-│   ├── BFS
-│   ├── DFS
+├── 3_Graph/
+│   ├── BFS.c
+│   ├── DFS.c
 │   ├── Dijkstra.c
-│   ├── Kruskal's Algorithm.c
-│   └── Prim's Algorithm.c
+│   ├── Kruskals_Algorithm.c
+│   └── Prims_Algorithm.c
 │
-├── 4. Greedy/
-│   ├── Fractional Knapsack
-│   └── Coin Change.c
+├── 4_Greedy/
+│   ├── Fractional_Knapsack.c
+│   └── Coin_Change.c
 │
-├── 5. Searching/
-│   ├── Binary Search [Using Given Array].c
-│   ├── Binary Search.c
-│   ├── Linear Search.c
-│   ├── Ternary Search [Using Given Array].c
-│   └── Ternary Search.c
+├── 5_Searching/
+│   ├── Binary_Search_Using_Given_Array.c
+│   ├── Binary_Search.c
+│   ├── Linear_Search.c
+│   ├── Ternary_Search_Using_Given_Array.c
+│   └── Ternary_Search.c
 │
-└── 6. Sorting/
-    ├── Bubble Sort.c
-    ├── Insertion Sort.c
-    ├── Merge Sort.c
-    ├── Quick Sort.c
-    └── Selection Sort.c
+└── 6_Sorting/
+    ├── Bubble_Sort.c
+    ├── Insertion_Sort.c
+    ├── Merge_Sort.c
+    ├── Quick_Sort.c
+    └── Selection_Sort.c
 
 ---
 
