@@ -8,30 +8,57 @@ It is organized by category to make learning, revision and practice easier.
 
 ## 📂 Repository Structure
 
-- **DSA_Algorithms**
-  - 📁 1_Data_Structures
-  - 📁 2_Dynamic_Programming
-  - 📁 3_Graph
-    - BFS.c
-    - DFS.c
-    - Dijkstra.c
-    - Kruskals_Algorithm.c
-    - Prims_Algorithm.c
-  - 📁 4_Greedy
-    - Fractional_Knapsack.c
-    - Coin_Change.c
-  - 📁 5_Searching
-    - Binary_Search_Using_Given_Array.c
-    - Binary_Search.c
-    - Linear_Search.c
-    - Ternary_Search_Using_Given_Array.c
-    - Ternary_Search.c
-  - 📁 6_Sorting
-    - Bubble_Sort.c
-    - Insertion_Sort.c
-    - Merge_Sort.c
-    - Quick_Sort.c
-    - Selection_Sort.c
+- **DSA Algorithms**
+
+  - 📁 Data Structures
+
+    - 📁 Linked List
+      - Circular Linked List
+      - Circular Queue Using Linked List
+      - Doubly Linked List
+      - Queue Using Linked List
+      - Singly Linked List
+      - Stack Using Linked List
+
+    - 📁 Queue
+      - Circular Queue
+      - Queue
+
+    - 📁 Stack
+      - Stack
+
+  - 📁 Dynamic Programming
+    - 0/1 Knapsack
+    - Factorial
+    - Fibonacci Using DP
+    - LCS Using Memoization
+    - LCS Using Recursion
+    - LCS Using Tabulation
+
+  - 📁 Graph
+    - BFS
+    - DFS
+    - Dijkstra
+    - Kruskals Algorithm
+    - Prims Algorithm
+
+  - 📁 Greedy
+    - Fractional Knapsack
+    - Coin Change
+
+  - 📁 Searching
+    - Binary Search Using Given Array
+    - Binary Search
+    - Linear Search
+    - Ternary Search Using Given Array
+    - Ternary Search
+
+  - 📁 Sorting
+    - Bubble Sort
+    - Insertion Sort
+    - Merge Sort
+    - Quick Sort
+    - Selection Sort
 
 ---
 
