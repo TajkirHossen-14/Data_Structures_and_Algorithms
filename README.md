@@ -1,101 +1,168 @@
-# 📚 Data Structures and Algorithms (DSA) Collection
+# 📚 Data Structures and Algorithms (DSA) 
 
-Welcome to the **DSA Algorithms Repository**! 🚀  
-This repository is a comprehensive collection of algorithms and data structures, categorized into various sections to facilitate understanding and implementation.
-
----
-
-## 📑 Contents
-
-1. 📦 [Data Structures](#-data-structures)
-2. 🧠 [Dynamic Programming](#-dynamic-programming)
-3. 🌐 [Graph Algorithms](#-graph-algorithms)
-4. 🎯 [Greedy Algorithms](#-greedy-algorithms)
-5. 🔎 [Searching Algorithms](#-searching-algorithms)
-6. 🔃 [Sorting Algorithms](#-sorting-algorithms)
+Welcome to the **DSA_Algorithms** repository!  
+This repository contains implementations of fundamental **Data Structures and Algorithms**.  
+It is organized by category to make learning, revision and practice easier.
 
 ---
 
-## 📦 Data Structures
+## 📂 Repository Structure
 
-This section contains implementations of various data structures, their operations, and usage examples.
 
-### 🔹 Key Data Structures
+DSA_Algorithms
+│
+├── 1. Data Structures
+├── 2. Dynamic Programming
+├── 3. Graph
+│ ├── BFS
+│ ├── DFS
+│ ├── Dijkstra.c
+│ ├── Kruskal's Algorithm.c
+│ └── Prim's Algorithm.c
+│
+├── 4. Greedy
+│ ├── Fractional Knapsack
+│ └── Coin Change.c
+│
+├── 5. Searching
+│ ├── Binary Search [Using Given Array].c
+│ ├── Binary Search.c
+│ ├── Linear Search.c
+│ ├── Ternary Search [Using Given Array].c
+│ └── Ternary Search.c
+│
+└── 6. Sorting
+├── Bubble Sort.c
+├── Insertion Sort.c
+├── Merge Sort.c
+├── Quick Sort.c
+└── Selection Sort.c
 
-- 📊 **Arrays**
-- 🔗 **Linked Lists** (Singly, Doubly)
-- 📚 **Stacks**
-- 📥 **Queues**
-- 🌳 **Trees**
-  - Binary Trees  
-  - Binary Search Trees (BST)  
-  - AVL Trees  
-- 🕸️ **Graphs**
-- 🗂️ **Hash Tables**
+---
+
+## 📘 Data Structures
+
+This section includes fundamental data structures that are essential for solving algorithmic problems efficiently.
+
+### 🔹 Covered Concepts
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graph representations
+
+These structures form the backbone of most algorithm implementations.
 
 ---
 
 ## 🧠 Dynamic Programming
 
-Dynamic Programming is an optimization technique used to solve problems by breaking them into smaller overlapping subproblems and storing their results.
+Dynamic Programming (DP) is used to solve complex problems by breaking them into smaller overlapping subproblems and storing intermediate results.
 
-### 🔹 Included Problems
+### 🔹 Key Characteristics
+- Optimal Substructure
+- Overlapping Subproblems
+- Memoization / Tabulation
 
-- 🔢 Fibonacci Sequence
-- 🎒 Knapsack Problem
-- 🔗 Longest Common Subsequence (LCS)
-- 💰 Coin Change Problem
+This section contains implementations demonstrating these principles.
 
 ---
 
 ## 🌐 Graph Algorithms
 
-Graph algorithms are techniques used to solve problems related to graph theory and network traversal.
+This folder contains fundamental graph traversal and shortest path / spanning tree algorithms.
 
-### 🔹 Important Algorithms
+### 🔹 BFS (Breadth First Search)
+- Traverses level by level
+- Uses Queue
+- Time Complexity: **O(V + E)**
 
-- 🌊 Depth First Search (DFS)
-- 🌐 Breadth First Search (BFS)
-- 🛣️ Dijkstra's Algorithm
-- ⭐ A* Search Algorithm
-- ⚖️ Bellman-Ford Algorithm
+### 🔹 DFS (Depth First Search)
+- Traverses depth-wise
+- Uses Stack / Recursion
+- Time Complexity: **O(V + E)**
+
+### 🔹 Dijkstra.c
+- Finds shortest path from a source vertex
+- Works for graphs with **non-negative weights**
+- Time Complexity: **O(V²)** (basic implementation)
+
+### 🔹 Kruskal's Algorithm.c
+- Finds Minimum Spanning Tree (MST)
+- Uses Greedy strategy
+- Based on edge sorting
+- Time Complexity: **O(E log E)**
+
+### 🔹 Prim's Algorithm.c
+- Finds Minimum Spanning Tree (MST)
+- Expands tree one vertex at a time
+- Time Complexity: **O(V²)** (basic implementation)
 
 ---
 
 ## 🎯 Greedy Algorithms
 
-Greedy algorithms build solutions step by step, always choosing the option that provides the most immediate benefit.
+Greedy algorithms make the best local choice at each step.
 
-### 🔹 Examples
+### 🔹 Fractional Knapsack
+- Items can be taken fractionally
+- Uses value/weight ratio sorting
+- Time Complexity: **O(n log n)**
 
-- 📅 Activity Selection Problem
-- 🌳 Prim's Algorithm
-- 🔗 Kruskal's Algorithm
-- 🧵 Huffman Coding
+### 🔹 Coin Change.c
+- Uses greedy strategy for minimum coins
+- Works correctly for canonical coin systems
 
 ---
 
 ## 🔎 Searching Algorithms
 
-Searching algorithms are used to retrieve specific data from a structure efficiently.
+Searching algorithms are used to locate an element in a dataset.
 
-### 🔹 Common Algorithms
+### 🔹 Linear Search.c
+- Checks elements sequentially
+- Time Complexity: **O(n)**
 
-- 📍 Linear Search
-- ⚡ Binary Search
-- 📈 Interpolation Search
+### 🔹 Binary Search.c
+- Works on sorted arrays
+- Time Complexity: **O(log n)**
+
+### 🔹 Binary Search [Using Given Array].c
+- Binary search using predefined array
+
+### 🔹 Ternary Search.c
+- Divides array into three parts
+- Time Complexity: **O(log n)**
+
+### 🔹 Ternary Search [Using Given Array].c
+- Implementation using predefined sorted array
 
 ---
 
-## 🔃 Sorting Algorithms
+# 🔃 Sorting Algorithms
 
-Sorting algorithms arrange elements in a specific order (ascending/descending).
+Sorting algorithms arrange elements in ascending or descending order.
 
-### 🔹 Included Algorithms
+### 🔹 Bubble Sort.c
+- Repeatedly swaps adjacent elements
+- Time Complexity: **O(n²)**
 
-- 🫧 Bubble Sort
-- ⚡ Quick Sort
-- 🔀 Merge Sort
-- 🌲 Heap Sort
-- 🧩 Insertion Sort
+### 🔹 Insertion Sort.c
+- Builds sorted portion gradually
+- Time Complexity: **O(n²)**
+
+### 🔹 Selection Sort.c
+- Selects minimum element in each iteration
+- Time Complexity: **O(n²)**
+
+### 🔹 Merge Sort.c
+- Divide and Conquer algorithm
+- Stable sort
+- Time Complexity: **O(n log n)**
+
+### 🔹 Quick Sort.c
+- Divide and Conquer
+- Average Time Complexity: **O(n log n)**
+- Worst Case: **O(n²)**
 
