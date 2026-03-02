@@ -105,12 +105,12 @@ This folder contains fundamental graph traversal and shortest path / spanning tr
 - Uses Stack / Recursion
 - Time Complexity: **O(V + E)**
 
-### 🔹 Dijkstra.c
+### 🔹 Dijkstra
 - Finds shortest path from a source vertex
 - Works for graphs with **non-negative weights**
 - Time Complexity: **O(V²)** (basic implementation)
 
-### 🔹 Kruskal's Algorithm.c
+### 🔹 Kruskal's Algorithm
 - Finds Minimum Spanning Tree (MST)
 - Uses Greedy strategy
 - Based on edge sorting
@@ -132,7 +132,7 @@ Greedy algorithms make the best local choice at each step.
 - Uses value/weight ratio sorting
 - Time Complexity: **O(n log n)**
 
-### 🔹 Coin Change.c
+### 🔹 Coin Change
 - Uses greedy strategy for minimum coins
 - Works correctly for canonical coin systems
 
@@ -142,22 +142,22 @@ Greedy algorithms make the best local choice at each step.
 
 Searching algorithms are used to locate an element in a dataset.
 
-### 🔹 Linear Search.c
+### 🔹 Linear Search
 - Checks elements sequentially
 - Time Complexity: **O(n)**
 
-### 🔹 Binary Search.c
+### 🔹 Binary Search
 - Works on sorted arrays
 - Time Complexity: **O(log n)**
 
-### 🔹 Binary Search [Using Given Array].c
+### 🔹 Binary Search [Using Given Array]
 - Binary search using predefined array
 
-### 🔹 Ternary Search.c
+### 🔹 Ternary Search
 - Divides array into three parts
 - Time Complexity: **O(log n)**
 
-### 🔹 Ternary Search [Using Given Array].c
+### 🔹 Ternary Search [Using Given Array]
 - Implementation using predefined sorted array
 
 ---
@@ -166,24 +166,24 @@ Searching algorithms are used to locate an element in a dataset.
 
 Sorting algorithms arrange elements in ascending or descending order.
 
-### 🔹 Bubble Sort.c
+### 🔹 Bubble Sort
 - Repeatedly swaps adjacent elements
 - Time Complexity: **O(n²)**
 
-### 🔹 Insertion Sort.c
+### 🔹 Insertion Sort
 - Builds sorted portion gradually
 - Time Complexity: **O(n²)**
 
-### 🔹 Selection Sort.c
+### 🔹 Selection Sort
 - Selects minimum element in each iteration
 - Time Complexity: **O(n²)**
 
-### 🔹 Merge Sort.c
+### 🔹 Merge Sort
 - Divide and Conquer algorithm
 - Stable sort
 - Time Complexity: **O(n log n)**
 
-### 🔹 Quick Sort.c
+### 🔹 Quick Sort
 - Divide and Conquer
 - Average Time Complexity: **O(n log n)**
 - Worst Case: **O(n²)**
