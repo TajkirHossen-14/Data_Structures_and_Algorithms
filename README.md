@@ -1,8 +1,6 @@
 # 📚 Data Structures and Algorithms (DSA) 
 
-Welcome to the **DSA_Algorithms** repository!  
-This repository contains implementations of fundamental **Data Structures and Algorithms**.  
-It is organized by category to make learning, revision and practice easier.
+A comprehensive collection of **Data Structures** and **Algorithms** implemented from scratch – covering everything from basic sorting to dynamic programming and graph traversal.
 
 ---
 
@@ -62,129 +60,72 @@ It is organized by category to make learning, revision and practice easier.
 
 ---
 
-## 📘 Data Structures
+## 🗂️ Topics Covered
 
-This section includes fundamental data structures that are essential for solving algorithmic problems efficiently.
+### 🔗 Data Structures
 
-### 🔹 Covered Concepts
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graph representations
-
-These structures form the backbone of most algorithm implementations.
+| Structure | Variants |
+|-----------|----------|
+| **Linked List** | Singly, Doubly, Circular, Stack/Queue/Circular Queue using LL |
+| **Stack** | Array-based, Linked List-based |
+| **Queue** | Simple Queue, Circular Queue, Linked List-based |
 
 ---
 
-## 🧠 Dynamic Programming
+### ⚡ Sorting Algorithms
 
-Dynamic Programming (DP) is used to solve complex problems by breaking them into smaller overlapping subproblems and storing intermediate results.
-
-### 🔹 Key Characteristics
-- Optimal Substructure
-- Overlapping Subproblems
-- Memoization / Tabulation
-
-This section contains implementations demonstrating these principles.
-
----
-
-## 🌐 Graph Algorithms
-
-This folder contains fundamental graph traversal and shortest path / spanning tree algorithms.
-
-### 🔹 BFS (Breadth First Search)
-- Traverses level by level
-- Uses Queue
-- Time Complexity: **O(V + E)**
-
-### 🔹 DFS (Depth First Search)
-- Traverses depth-wise
-- Uses Stack / Recursion
-- Time Complexity: **O(V + E)**
-
-### 🔹 Dijkstra
-- Finds shortest path from a source vertex
-- Works for graphs with **non-negative weights**
-- Time Complexity: **O(V²)** (basic implementation)
-
-### 🔹 Kruskal's Algorithm
-- Finds Minimum Spanning Tree (MST)
-- Uses Greedy strategy
-- Based on edge sorting
-- Time Complexity: **O(E log E)**
-
-### 🔹 Prim's Algorithm.c
-- Finds Minimum Spanning Tree (MST)
-- Expands tree one vertex at a time
-- Time Complexity: **O(V²)** (basic implementation)
+| Algorithm | Time (Best) | Time (Average) | Time (Worst) | Space |
+|-----------|-------------|----------------|--------------|-------|
+| Bubble Sort | O(n) | O(n²) | O(n²) | O(1) |
+| Selection Sort | O(n²) | O(n²) | O(n²) | O(1) |
+| Insertion Sort | O(n) | O(n²) | O(n²) | O(1) |
+| Merge Sort | O(n log n) | O(n log n) | O(n log n) | O(n) |
+| Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n) |
 
 ---
 
-## 🎯 Greedy Algorithms
+### 🔍 Searching Algorithms
 
-Greedy algorithms make the best local choice at each step.
-
-### 🔹 Fractional Knapsack
-- Items can be taken fractionally
-- Uses value/weight ratio sorting
-- Time Complexity: **O(n log n)**
-
-### 🔹 Coin Change
-- Uses greedy strategy for minimum coins
-- Works correctly for canonical coin systems
+| Algorithm | Time (Best) | Time (Worst) | Requires Sorted? |
+|-----------|-------------|--------------|-----------------|
+| Linear Search | O(1) | O(n) | ❌ No |
+| Binary Search | O(1) | O(log n) | ✅ Yes |
+| Ternary Search | O(1) | O(log₃ n) | ✅ Yes |
 
 ---
 
-## 🔎 Searching Algorithms
+### 🌐 Graph Algorithms
 
-Searching algorithms are used to locate an element in a dataset.
-
-### 🔹 Linear Search
-- Checks elements sequentially
-- Time Complexity: **O(n)**
-
-### 🔹 Binary Search
-- Works on sorted arrays
-- Time Complexity: **O(log n)**
-
-### 🔹 Binary Search [Using Given Array]
-- Binary search using predefined array
-
-### 🔹 Ternary Search
-- Divides array into three parts
-- Time Complexity: **O(log n)**
-
-### 🔹 Ternary Search [Using Given Array]
-- Implementation using predefined sorted array
+| Algorithm | Use Case |
+|-----------|----------|
+| **BFS** | Shortest path in unweighted graph, level-order traversal |
+| **DFS** | Cycle detection, topological sort, path finding |
+| **Dijkstra** | Shortest path in weighted graph (non-negative weights) |
+| **Kruskal's** | Minimum Spanning Tree — edge-based greedy approach |
+| **Prim's** | Minimum Spanning Tree — vertex-based greedy approach |
 
 ---
 
-## 🔃 Sorting Algorithms
+### 💡 Dynamic Programming
 
-Sorting algorithms arrange elements in ascending or descending order.
+| Problem | Approach |
+|---------|----------|
+| **0/1 Knapsack** | Tabulation |
+| **Fibonacci** | DP (memoized) |
+| **Factorial** | DP |
+| **LCS** | Recursion, Memoization, Tabulation |
 
-### 🔹 Bubble Sort
-- Repeatedly swaps adjacent elements
-- Time Complexity: **O(n²)**
+---
 
-### 🔹 Insertion Sort
-- Builds sorted portion gradually
-- Time Complexity: **O(n²)**
+### 🤑 Greedy Algorithms
 
-### 🔹 Selection Sort
-- Selects minimum element in each iteration
-- Time Complexity: **O(n²)**
+| Problem | Strategy |
+|---------|----------|
+| **Fractional Knapsack** | Sort by value/weight ratio |
+| **Coin Change** | Always pick largest denomination first |
 
-### 🔹 Merge Sort
-- Divide and Conquer algorithm
-- Stable sort
-- Time Complexity: **O(n log n)**
+---
 
-### 🔹 Quick Sort
-- Divide and Conquer
-- Average Time Complexity: **O(n log n)**
-- Worst Case: **O(n²)**
+## 🤝 Contributing
 
+Contributions are welcome! Feel free to open an issue or submit a pull request if you'd like to add new algorithms or improve existing implementations.
