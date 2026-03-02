@@ -66,7 +66,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
 
 | Structure | Variants |
 |-----------|----------|
-| **Linked List** | Singly, Doubly, Circular, Stack/Queue/Circular Queue using LL |
+| **Linked List** | Singly, Doubly, Circular, Stack / Queue / Circular Queue using LL |
 | **Stack** | Array-based, Linked List-based |
 | **Queue** | Simple Queue, Circular Queue, Linked List-based |
 
