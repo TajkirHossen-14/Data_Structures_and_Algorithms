@@ -18,7 +18,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
       - Singly Linked List
       - Stack Using Linked List
 
-    - 📁 𝗤𝘂𝗲𝘂𝗲
+    - 📁 Queue
       - Circular Queue
       - Queue
 
