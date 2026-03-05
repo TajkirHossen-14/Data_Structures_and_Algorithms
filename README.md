@@ -8,7 +8,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
 
 - **DSA Algorithms**
 
-  - 📁 Data Structures 
+  - 📁 𝗗𝗮𝘁𝗮 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲𝘀  
 
     - 📁 Linked List
       - Circular Linked List
@@ -18,7 +18,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
       - Singly Linked List
       - Stack Using Linked List
 
-    - 📁 Queue
+    - 📁 𝗤𝘂𝗲𝘂𝗲
       - Circular Queue
       - Queue
 
