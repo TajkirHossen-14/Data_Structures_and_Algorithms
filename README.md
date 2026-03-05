@@ -8,7 +8,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
 
 - **DSA Algorithms**
 
-  - 📁 Data Structures(./DSA_Algorithms/Data Structures)
+  - 📁 Data Structures 
 
     - 📁 Linked List
       - Circular Linked List
