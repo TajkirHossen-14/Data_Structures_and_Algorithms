@@ -44,7 +44,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
     - Fractional Knapsack
     - Coin Change
 
-  - 📁 Searching
+  - 📁 𝗦𝗲𝗮𝗿𝗰𝗵𝗶𝗻𝗴
     - Binary Search Using Given Array
     - Binary Search
     - Linear Search
