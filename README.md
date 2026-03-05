@@ -33,7 +33,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
     - LCS Using Recursion
     - LCS Using Tabulation
 
-  - 📁 Graph
+  - 📁 𝗚𝗿𝗮𝗽𝗵
     - BFS
     - DFS
     - Dijkstra
