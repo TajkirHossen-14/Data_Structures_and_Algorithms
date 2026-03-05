@@ -51,7 +51,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
     - Ternary Search Using Given Array
     - Ternary Search
 
-  - 📁 Sorting
+  - 📁 𝗦𝗼𝗿𝘁𝗶𝗻𝗴
     - Bubble Sort
     - Insertion Sort
     - Merge Sort
