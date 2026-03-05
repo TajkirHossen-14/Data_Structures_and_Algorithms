@@ -25,7 +25,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
     - 📁 Stack
       - Stack
 
-  - 📁 Dynamic Programming
+  - 📁 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 
     - 0/1 Knapsack
     - Factorial
     - Fibonacci Using DP
