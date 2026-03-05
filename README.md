@@ -40,7 +40,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
     - Kruskals Algorithm
     - Prims Algorithm
 
-  - 📁 Greedy
+  - 📁 𝗚𝗿𝗲𝗲𝗱𝘆
     - Fractional Knapsack
     - Coin Change
 
