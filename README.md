@@ -121,7 +121,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
 
 | Problem | Strategy |
 |---------|----------|
-| **Fractional Knapsack** | Sort by value/weight ratio |
+| **Fractional Knapsack** | Sort by value / weight ratio |
 | **Coin Change** | Always pick largest denomination first |
 
 ---
