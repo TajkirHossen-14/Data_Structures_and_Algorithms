@@ -102,7 +102,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
 | **DFS** | Cycle detection, topological sort, path finding |
 | **Dijkstra** | Shortest path in weighted graph (non-negative weights) |
 | **Kruskal's** | Minimum Spanning Tree – edge-based greedy approach |
-| **Prim's** | Minimum Spanning Tree — vertex-based greedy approach |
+| **Prim's** | Minimum Spanning Tree – vertex-based greedy approach |
 
 ---
 
