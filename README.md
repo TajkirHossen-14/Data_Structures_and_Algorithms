@@ -101,7 +101,7 @@ A comprehensive collection of **Data Structures** and **Algorithms** implemented
 | **BFS** | Shortest path in unweighted graph, level-order traversal |
 | **DFS** | Cycle detection, topological sort, path finding |
 | **Dijkstra** | Shortest path in weighted graph (non-negative weights) |
-| **Kruskal's** | Minimum Spanning Tree — edge-based greedy approach |
+| **Kruskal's** | Minimum Spanning Tree – edge-based greedy approach |
 | **Prim's** | Minimum Spanning Tree — vertex-based greedy approach |
 
 ---
