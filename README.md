@@ -4,9 +4,9 @@
   <img src="Banner/Data Structures & Algorithms [Banner].jpeg" alt="Data Structures & Algorithms Banner" width="100%">
 </p>
 
-</div>
-
 A comprehensive collection of **Data Structures** and **Algorithms** implemented from scratch – covering everything from basic sorting to dynamic programming and graph traversal.
+
+</div>
 
 ---
 
