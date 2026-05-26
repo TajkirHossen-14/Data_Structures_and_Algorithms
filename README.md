@@ -1,4 +1,7 @@
-# 📚 Data Structures and Algorithms (DSA) 
+<div align="center">
+<p align="center">
+  <img src="Data Structures & Algorithms [Banner].jpeg" alt="Data Structures & Algorithms Banner" width="100%">
+</p>
 
 A comprehensive collection of **Data Structures** and **Algorithms** implemented from scratch – covering everything from basic sorting to dynamic programming and graph traversal.
 
