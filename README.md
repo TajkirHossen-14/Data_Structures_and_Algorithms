@@ -1,7 +1,7 @@
 <div align="center">
 
   <p align="center">
-  <img src="Banner/DSA Banner.png" alt="Data Structures & Algorithms Banner" width="100%">
+  <img src="Banner/DSA Banner 2.png" alt="Data Structures & Algorithms Banner" width="100%">
 </p>
 
 <br>
